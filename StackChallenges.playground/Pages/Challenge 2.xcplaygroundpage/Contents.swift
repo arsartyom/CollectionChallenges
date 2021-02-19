@@ -42,4 +42,4 @@ func checkParentheses(_ str: String) -> Bool{
 }
 
 var str = "fjfk((dskdlsk))sskd"
-checkParentheses(str)
+checkParentheses(str) // the answer is true

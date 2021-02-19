@@ -46,5 +46,5 @@ func myReverse<Element>(_ array: [Element]){
     }
 }
 var array = [1,2,4,6,8,3,24,1]
-myReverse(array)
+myReverse(array) //print reversed array
 
