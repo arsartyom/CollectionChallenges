@@ -1,4 +1,4 @@
-Hello there are a couple of challenges on Stacks here 
+Hello,    here are a couple of challenges on Stacks
 
 #### Challenge 1: Reverse an Array
 Create a function that prints the contents of an array in reversed order.   
