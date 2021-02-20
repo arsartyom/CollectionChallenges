@@ -204,7 +204,7 @@ func middleNode<Value>(of list:LinkedList<Value>) -> Node<Value>?{
 }
 middleNode(of: l)?.value // prints 18
 ```
-### Challenge 3: Reverse a linked list.   @Here can be problems because of copying of references of Node objects. I understand it but take care of it later.
+### Challenge 3: Reverse a linked list.   @Here can be problems because of copying of references of Node objects. I understand it but I will take care of it later.
 Create a function that reverses a linked list. You do this by manipulating the nodes so
 that they’re linked in the other direction. For example:   
 «// before.   
